@@ -121,18 +121,20 @@
   margin-top: 4rem;
   margin-bottom: 0;
 }
-.submit {
+.submit-btn {
   background-color: black;
-  bottom: 10px;
+  bottom: 1px;
   border: 0;
   cursor: pointer;
   font-size: 1.8rem;
   font-weight: 600;
-  padding: 1rem 25rem;
-  margin: 1rem;
+  padding: 1rem 20rem;
+  margin: 10rem;
   text-transform: uppercase;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+  color: blue;
 }
 .insult {
   font-size: 100px;
@@ -157,7 +159,8 @@
   width: 25px;
 }
 .complaint-form {
-  width: 80%;
+  width: 90%;
+  margin-left: 20px;
 }
 
 .complaint {
